@@ -119,12 +119,6 @@ KalingaKavach/
 - **Change detection performance:** `[precision / recall / F1]`
 - **Sample outputs:** add images of classified maps, change maps, and the dashboard
 
-```
-![Mangrove classification map](outputs/classification_map.png)
-![Change detection map](outputs/change_map.png)
-![Dashboard screenshot](outputs/dashboard.png)
-```
-
 ---
 
 ## Impact
@@ -151,23 +145,17 @@ KalingaKavach/
 
 | Name | Role |
 |---|---|
-| `[Your Name]` | `[Role]` |
-| `[Teammate]` | `[Role]` |
+| `Aryan Shankar Pradhan` | `Project Lead` |
+| `Anwesha Nayak` | `Tech Lead` |
+| `Hanshraj Sethi` | `Data and Design` |
+| `Amaan Ali Khan` | `Research and Documentation` |
 
 ---
 
 ## Acknowledgements
 
 - Satellite data providers `[e.g. ESA Copernicus, USGS]`
-- `[Competition or organisation name]`
-- `[Mentors, institutions, or open-source tools]`
-
----
-
-## License
-
-This project is licensed under the `[MIT]` License. See the `LICENSE` file for details.
-
+- `Siksha 'O' Anusandhan`
 ---
 
 <p align="center"><b>KalingaKavach: protecting Odisha's coast, one mangrove at a time.</b></p>
