@@ -1,0 +1,6 @@
+How It Works, Tech Stack and Project Structure: these now match the real pipeline, 
+              from Sentinel-2 to Earth Engine to NDVI change detection to the FastAPI service and dashboard.
+Installation and Usage: these are filled in with working commands, including the dry run before you post alerts.
+Results: I left these as placeholders on purpose. The only number there is the synthetic test result, 
+          which is labelled as synthetic. Please fill in real figures after the Cyclone Dana backtest.
+          
