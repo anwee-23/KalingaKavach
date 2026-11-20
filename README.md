@@ -179,10 +179,10 @@ Real-imagery results have not been measured yet. This section will be filled in 
 
 | Name | Role |
 |---|---|
-| Aryan Shankar Pradhan | Project Lead |
-| Anwesha Nayak | Tech Lead |
-| Hanshraj Sethi | Data and Design |
-| Amaan Ali Khan | Research and Documentation |
+| Anwesha Nayak | Project Lead |
+| Hanshraj Sethi | Tech lead |
+| Aryan Shankar Pradhan | Data And Research |
+| Amaan Ali Khan | Briefing and Documentation |
 
 ---
 
